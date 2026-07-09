@@ -1,4 +1,4 @@
 # principais_comandos_linux
 # Principais Comandos Linux
 
-![Print do projeto](principais_comandos_linux/comandos_linux.png)
+![Principais Comandos Linux](./comandos_linux.png)
