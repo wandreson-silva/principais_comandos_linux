@@ -6,6 +6,6 @@
 
 ![Principais Comandos Linux](./comandos_cyber__linux.png)
 
-# Principais comandos Linux para Pentester
+# Ferramentas para Pentester
 
 ![Principais Comandos Linux](./ferramentas_pentester.png)
