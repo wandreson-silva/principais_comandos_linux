@@ -2,6 +2,10 @@
 
 ![Principais Comandos Linux](./comandos_linux.png)
 
+# Principais comandos Linux para Cirbesegurança
+
 ![Principais Comandos Linux](./comandos_cyber__linux.png)
 
-![Principais Comandos Linux](./ferramentas_pentester)
+# Principais comandos Linux para Pentester
+
+![Principais Comandos Linux](./ferramentas_pentester.png)
