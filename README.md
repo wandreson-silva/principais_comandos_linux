@@ -10,3 +10,9 @@
 
 ![Principais Comandos Linux](./ferramentas_pentester.png)
 
+# Comandos Nmap
+
+![Principais Comandos Linux](./comandos_nmap_linux.png)
+
+
+
