@@ -1,3 +1,7 @@
+# Principais tipos de Hackers
+
+![Principais Comandos Linux](./Tipos_hackers2.png)
+
 # Principais Comandos Linux
 
 ![Principais Comandos Linux](./comandos_linux.png)
