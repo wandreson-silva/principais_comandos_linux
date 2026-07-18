@@ -1,3 +1,15 @@
+# Principais tipos de distribuições Linux
+
+![Principais Comandos Linux](./distribuições_linux.png)
+
+# Ferramentas para Pentester
+
+![Principais Comandos Linux](./ferramentas_pentester.png)
+
+# Comandos Nmap
+
+![Principais Comandos Linux](./comandos_nmap_linux.png)
+
 # Principais tipos de Hackers
 
 ![Principais Comandos Linux](./Tipos_hackers2.png)
@@ -10,17 +22,9 @@
 
 ![Principais Comandos Linux](./comandos_cyber__linux.png)
 
-# Ferramentas para Pentester
 
-![Principais Comandos Linux](./ferramentas_pentester.png)
 
-# Comandos Nmap
 
-![Principais Comandos Linux](./comandos_nmap_linux.png)
-
-# Principais tipos de distribuições Linux
-
-![Principais Comandos Linux](./distribuições_linux.png)
 
 
 
