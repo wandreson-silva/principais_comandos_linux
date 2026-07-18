@@ -18,5 +18,9 @@
 
 ![Principais Comandos Linux](./comandos_nmap_linux.png)
 
+# Principais tipos de distribuições Linux
+
+![Principais Comandos Linux](./distribuições_linux.png)
+
 
 
