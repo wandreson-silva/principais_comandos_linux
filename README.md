@@ -22,6 +22,10 @@
 
 ![Principais Comandos Linux](./comandos_cyber__linux.png)
 
+# Principais Tipos de Redes
+
+![Principais Comandos Linux](./Tipos_de_Redes.png)
+
 
 
 
