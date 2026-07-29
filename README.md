@@ -26,6 +26,10 @@
 
 ![Principais Comandos Linux](./Tipos_de_Redes.png)
 
+# Principais Tipos Topologia de Redes
+
+![Principais Comandos Linux](./Topologia_de_redes.png)
+
 
 
 
